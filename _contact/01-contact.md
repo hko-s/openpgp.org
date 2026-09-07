@@ -6,48 +6,33 @@ excerpt: "Contact"
 
 {% include toc %}
 
-Points of contact for communication about OpenPGP.
+Points of contact for implementation-agnostic exchange about OpenPGP, the standard.
 
-## General OpenPGP Contact
+## IETF OpenPGP working group
 
-Implementation-agnostic exchange about OpenPGP, the standard.
+The [OpenPGP working group at the IETF](https://datatracker.ietf.org/wg/openpgp/about/) standardizes the OpenPGP format, in the form of RFC documents.
 
-### IETF OpenPGP working group
+An [email list archive](https://mailarchive.ietf.org/arch/browse/openpgp/) is available ([subscribe](https://www.ietf.org/mailman/listinfo/openpgp) to the list).
 
-The [OpenPGP working group at the IETF](https://datatracker.ietf.org/wg/openpgp/about/) standardizes OpenPGP as a format, in the form of RFC documents.
+## General OpenPGP chatroom
 
-An [email list archive](https://mailarchive.ietf.org/arch/browse/openpgp/) is available.
+A large general purpose OpenPGP room on [Matrix](https://en.wikipedia.org/wiki/Matrix_(protocol)):
 
-[Subscribe](https://www.ietf.org/mailman/listinfo/openpgp)
+[#openpgp-gpg:matrix.org](https://matrix.to/#/#openpgp-gpg:matrix.org)
 
-### openpgp-email (hosted by enigmail)
+(Note that the room name contains "GPG" for additional discoverability, even though the room is not GnuPG-specific.)
 
-An email list for discussion of "OpenPGP-based Email Encryption":
+## openpgp-email
+
+An email list for discussion of "OpenPGP-based Email Encryption" (hosted by enigmail):
 
 <https://lists.hostpoint.ch/archives/list/openpgp-email@enigmail.net/latest>
 
 Note: The ["email summit"](/community/#openpgp-email-summits) series of meetings originates from this list.
 
-### openpgp.org lists
+## OpenPGP for application developers
 
-???
+[Matrix](https://en.wikipedia.org/wiki/Matrix_(protocol)) chat room for the ["OpenPGP for application developers"](https://openpgp.dev/) documentation project:
 
-### General OpenPGP chatrooms
+[#openpgp-for-application-developers:matrix.org](https://matrix.to/#/#openpgp-for-application-developers:matrix.org)
 
-Multiple [Matrix](https://en.wikipedia.org/wiki/Matrix_(protocol)) chats room about OpenPGP exist:
-
-#### #openpgp-gpg:matrix.org
-
-<https://matrix.to/#/#openpgp-gpg:matrix.org> (`#openpgp-gpg:matrix.org`)
-
-Note that the room name contains "GPG" for additional discoverability. However, it is not intended as GnuPG specific:
-
-#### #openpgp-general:infosec.exchange
-
-<https://matrix.to/#/#openpgp-general:infosec.exchange> (`#openpgp-general:infosec.exchange`)
-
-### OpenPGP for application developers (documentation)
-
-The ["OpenPGP for application developers"](https://openpgp.dev/) documentation project operates a [Matrix](https://en.wikipedia.org/wiki/Matrix_(protocol)) chat room as a point of contact (listed under the name "Notes on OpenPGP").
-
-(link?)
